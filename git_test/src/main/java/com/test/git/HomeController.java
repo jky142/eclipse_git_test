@@ -35,6 +35,7 @@ public class HomeController {
 		
 		System.out.println("Hello Git");
 		System.out.println("Conflict Ssibal ro ma");
+		System.out.println("nigiral Ssibal ro ma");		
 		
 		return "home";
 	}
